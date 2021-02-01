@@ -4,7 +4,7 @@
 $ python3 -m venv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-$ ./bins.sh 
+$ ./bins.sh example-cluster-one
 Performing calculations for cluster example-cluster-one
 Checking container instance memory size
 ... average memory = 15662
